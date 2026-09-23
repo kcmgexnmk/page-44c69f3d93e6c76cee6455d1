@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ca5b4196b4cba9b33304b343",
+  "owner": "kcmgexnmk",
+  "repo": "page-44c69f3d93e6c76cee6455d1",
+  "title": "OneMore",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "44c69f3d93e6c76cee6455d1",
+      "a": "OneMore",
+      "b": "2027最新官网",
+      "entity": "OneMore",
+      "brand": "OneMore",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "005474e4fd161a278688e7a2322d6729848bfa34322c76d8bb642990ddf592fc",
+      "content": {
+        "primary_entity": "OneMore",
+        "keyword1": "OneMore",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，路由器与桌面端建议分别配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端选用",
+          "AI_CLOSING_TEXT": "从自身设备数量与流量需求出发，可以轻松选定 OneMore 套餐。前往购买链接完成订阅。",
+          "AI_CLOSING_TITLE": "选好方案再出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，其中旗舰版按年付仅需 ¥350/年，每月 300GB 流量并可支持 5 台设备同时在线。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与线路类型三个角度衡量套餐。",
+          "AI_FEATURES_TITLE": "套餐适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版包含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付优惠，长期使用可以摊薄每月成本，团队版还支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "线路与解锁",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成选择服务、核对适配要求并依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置路径",
+          "AI_HERO_INTRO": "OneMore 提供基础版、旗舰版与团队版三档方案，覆盖从个人轻量使用到多设备团队共享的场景。按设备数量与月流量需求选档，再按客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档方案适配多设备场景",
+          "AI_HIGHLIGHT_1": "旗舰版月付 ¥35，年付 ¥350",
+          "AI_HIGHLIGHT_2": "流量自 100GB 到 1000GB 可选",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备，旗舰版兼顾流量与专线加速，团队版面向 20 台设备的高带宽需求。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "先明确常用设备数量和每月大致流量消耗，判断需要轻量、均衡还是高带宽方案。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备数量与流量额度满足需要，并留意流媒体解锁和专线加速等权益。",
+          "AI_STEP_TEXT_3": "依照所用客户端的配置文档导入订阅信息，在桌面端、移动端或路由器上分别完成设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "OneMore 多设备加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "OneMore 套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以。若当前设备数量或月流量超出所选档位，可按剩余周期价值补差价升级到旗舰版或团队版，具体规则以购买时的套餐说明为准。",
+          "AI_FAQ_QUESTION_2": "基础版每月 100GB 流量够用吗？",
+          "AI_FAQ_ANSWER_2": "如果主要用于浏览网页、收发邮件和少量视频，100GB 通常够用；若经常观看高清流媒体或下载大型文件，建议直接选择旗舰版 300GB 或团队版 1000GB。",
+          "AI_FAQ_QUESTION_3": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。多设备同时连接会占用对应数量，超出限制时部分设备将无法连接，建议按实际设备数选档。",
+          "AI_FAQ_QUESTION_4": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_4": "年付相当于约 10 个月月付价格。基础版月付 15 元、年付 150 元；旗舰版月付 35 元、年付 350 元；团队版月付 85 元、年付 850 元。",
+          "AI_FAQ_QUESTION_5": "OneMore 用什么客户端导入订阅？",
+          "AI_FAQ_ANSWER_5": "可根据设备系统选择对应客户端，Windows、macOS、Android、iOS 等平台有不同推荐工具。安装后按客户端文档导入订阅链接即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gct8aewzmmp.com",
+    "host": "xn--yfrw1gct8aewzmmp.com"
+  },
+  "file_hashes": {
+    "index.html": "ac22ecdb74a33a48ab5bc87337f456f227dda001088362d86130184dff515865",
+    "sitemap.xml": "e72fe4f16987a29602d3d7043df3f3e7305775f583319504bc0e5cc77aca00db",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "11cdcd3b242f6f5c3ab0f3287e8684266cf67db413c912dd757d61b13ffceb66",
+    "robots.txt": "c231e34c67a89dde6a79da85770e5c45d7725f42cc3c7952cb0df1ffd68e610d",
+    "e35003158d938e0bb0f523ec30c66570.txt": "f646b08bcfe2595c344c4529e46ead54f16c5bd2153ada74c32170de80044475"
+  },
+  "revision": "b5ee7bf6cbe3bfcbc7542bef24f627da3839e6ea7148ef408f49d59968e84ef7"
+}
